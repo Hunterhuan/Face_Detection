@@ -55,3 +55,27 @@ python face_detection.py
 ```
 
 It will show the performance of face detection on img_590.jpg.
+
+## CNN feature Visualize
+
+```
+python visualize_cnn_feature.py
+```
+
+It will show the pca and tsne result for feature extract from the CNN model.
+
+## Hog feature Visualize
+
+```
+python visualize_hog_feature.py
+```
+
+It will show the pca and tsne result for hog feature.
+
+
+
+***
+
+If have any question about the code, please contact me directly and let me know it.  mr.han@sjtu.edu.cn  
+
+I will go to the Office to running the code for result.  
